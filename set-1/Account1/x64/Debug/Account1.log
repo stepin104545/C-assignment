@@ -1,0 +1,4 @@
+﻿  account.cpp
+  account_test.cpp
+  Account1.vcxproj -> C:\Users\Training\Desktop\c++\set-1\Account1\x64\Debug\Account1.exe
+C:\Users\Training\Desktop\c++\set-1\Account1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1\build\native\include\gtest\internal\gtest-port.h(1804): warning C26495: Variable 'testing::internal::Mutex::owner_thread_id_' is uninitialized. Always initialize a member variable (type.6).

@@ -1,0 +1,2 @@
+﻿  Point.cpp
+C:\Users\Training\source\repos\Point\Point.cpp(15): error C4716:  'Point::distanceFromOrigin': must return a value
